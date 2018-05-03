@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SandBox Gaming Lounge</string>
+
+    <string name="about">About</string>
+    <string name="events">Events</string>
+    <string name="hours">Hours</string>
+    <string name="contact">Contact</string>
+
+    <string name="about_body">At Sandbox Gaming Lounge, we’ve long noticed the lack of a save space for people of all ages to come and interact with other gamers of all kinds. We opened up our location in Metropolis in order to provide just that. Our facilities are not only outfitted for PC gaming, but also console play and tabletop sessions. We also have a café stocked with our favorite game-inspired snacks and beverages. Whether you want to have your group come together, find a new group to play with, or simply game in the company of others, Sandbox gives you the freedom to choose.</string>
+
+    <string name="fnm">Friday Night Magic</string>
+    <string name="fnm_body">Come for the classic <i>Magic: the Gathering</i> experience! We host FNM Casual each week for players of all levels. On the last Friday of the month is a special competition to win our exclusive prize! More info on our website.</string>
+    <string name="esports">eSports Saturdays</string>
+    <string name="esports_body">For all you hopefuls training for official tournaments or just wanting to hone your skills, our twice-a-month eSports Saturdays are the place to do so! Each event is focused around its own game. Sign up on our website to take part.</string>
+    <string name="tabletop">Tabletop Sundays</string>
+    <string name="tabletop_body">Sundays are the perfect time at the Sandbox to bond with your friends any of our provided tabletop games! Group prices are reduced as well as there being a featured game that anyone can join in on.</string>
+    <string name="dndal">D&amp;D Adventurers League</string>
+    <string name="dndal_body">Always wanted to play <i>D&amp;D</i> but never knew how to start? Or just wanting a different experience with some potential friends? Join us for an open house-hosted session of an official <i>D&amp;D</i> Campaign. More info on our website.</string>
+
+    <string name="hours_body">Monday &#8211; Thursday: 12 &#8211; 10 pm\nFriday: 12 &#8211; 11 pm \nSaturday &#8211; Sunday: 10 am &#8211; 11 pm</string>
+
+    <string name="address">26 Neon Valley St.\nMetropolis, USA 57821</string>
+    <string name="number">555–236–7924</string>
+    <string name="website">sandboxgl.com</string>
+    <string name="email">info@sandboxgl.com</string>
+
+    <string name="copyright"><i>Magic: the Gathering</i> and <i>D&amp;D</i>/<i>Dungeons &amp; Dragons</i> are property of <i>Wizards of the Coast&#169;</i>.\nSandbox Gaming Lounge &#169;2018</string>
+
+</resources>
